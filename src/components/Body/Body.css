@@ -1,4 +1,26 @@
-.post-content img{
-    width: 140px;
-    height: auto;
+.post-content{
+    margin-left: 600px;
+    margin-right: 600px;
+    width: 774px;
+    height: 377px;
+}
+
+.custom-logo{
+    width: 640px;
+    height: 117px;
+}
+
+.custom-logo img{
+    float: right;
+    margin: 0;
+    width: 130px;
+    height: 87px;
+}
+
+.post-content p{
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: .01em;
+    color: #262626;
+    font-weight: 300;
 }

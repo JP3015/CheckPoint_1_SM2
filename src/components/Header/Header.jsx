@@ -29,7 +29,7 @@ export default function Header(){
                 <img src={autor} alt="autor-image"/>
             </div>
             <div className= 'higher-share'>
-                <span>24/08/2021 ás 16:44 | Atualizado às 16:56</span>
+                <span className= 'post-data'>24/08/2021 ás 16:44 | Atualizado às 16:56</span>
             </div>
         </header>
 

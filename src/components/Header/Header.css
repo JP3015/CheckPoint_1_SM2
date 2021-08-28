@@ -4,8 +4,8 @@
 }
 
 .content-menu{
-    width: 3000px;
-    height: 55px;
+    width: 1920px;
+    height: 64px;
 }
 
 .menu-header {
@@ -24,22 +24,37 @@
     font-size: 17px;
 }
 
-header{
-    font-family: 'CNN Sans Display',sans-serif;
-}
-
 .post-header{
-    margin-left: 179px;
-    margin-right: 150px;
-    padding-bottom: 16px;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-top: 30px;
 }
 
 .post-title{
+    width: 876px;
+    height: 109px;
+    color: #262626;
     font-size: 40px;
     font-weight: 700;
     line-height: 46px;
 }
 
 .post-excerpt{
+    width: 876px;
+    height: 48px;
+}
 
+.higher-share{
+    width: 876px;
+    height: 25px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+.post-data{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: #4d4d4d;
+    font-style: normal;
 }
