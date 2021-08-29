@@ -9,10 +9,10 @@ export default function Header(){
             <div className= 'header-main'>
                 <nav className= 'content-menu'>
                     <ul className= 'menu-header'>
-                        <li><a href="">Nacional</a></li>
+                        <li><a href="" target>Nacional</a></li>
                         <li><a href="">Business</a></li>
                         <li><a href="">Internacional</a></li>
-                        <li><a href="">Saúde</a></li>
+                        <li><a href=""><b>Saúde</b></a></li>
                         <li><a href="">Tecnologia</a></li>
                         <li><a href="">Esporte</a></li>
                         <li><a href="">Entreterimento</a></li>

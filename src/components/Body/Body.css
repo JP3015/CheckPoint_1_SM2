@@ -1,6 +1,7 @@
 .post-content{
-    margin-left: 600px;
-    margin-right: 600px;
+    margin-top: 20px;
+    margin-left: 550px;
+    margin-right: 550px;
     width: 774px;
     height: 377px;
 }
@@ -23,4 +24,8 @@
     letter-spacing: .01em;
     color: #262626;
     font-weight: 300;
+}
+
+.post-content a{
+    color: deepskyblue;
 }

@@ -15,19 +15,32 @@
 }
 
 .menu-header li{
-    list-style-type: none;
-    color: #ffffff;
-    text-decoration: underline;
-    margin: 16px;
-    padding-left: 30px;
-    padding-bottom: 20px;
+    margin: 10px;
+    margin-left: 50px;
     font-size: 17px;
+    margin-top: 25px;
+}
+
+.menu-header li:first-child a:after{
+    content: "";
+    width: 11px;
+    height: 11px;
+    display: inline-block;
+    background: #a81d1d;
+    border-radius: 100%;
+    vertical-align: middle;
+    margin-left: 8px;
+}
+
+.menu-header a{
+    text-decoration: none;
+    color: #ffffff;
 }
 
 .post-header{
-    margin-left: 500px;
-    margin-right: 500px;
-    padding-top: 30px;
+    margin-left: 450px;
+    margin-right: 450px;
+    padding-top: 40px;
 }
 
 .post-title{
@@ -47,8 +60,8 @@
 .higher-share{
     width: 876px;
     height: 25px;
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: 450px;
+    margin-right: 450px;
 }
 
 .post-data{
